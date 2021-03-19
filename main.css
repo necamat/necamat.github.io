@@ -1,0 +1,16 @@
+#mainContainer{
+    padding: 0;
+}
+.projectCard{
+    margin-top:1.25rem;
+}
+.readMore{
+    color: #6c757d;
+}
+a:hover{
+    text-decoration: none;
+}
+#welcomeMessage{
+    border-left: 1px solid rgba(0,0,0,0.9);
+    padding-left: 16px;
+}
