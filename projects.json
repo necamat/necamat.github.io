@@ -5,41 +5,7 @@
             "tools" : "JAVA, MYSQL, SPRING MVC",
             "url" : "https://github.com/necamat/webShop",
             "text" : "The application is conceived as a Web Shop, in which customers are known.  <a href='#' class='readMore'>Read&nbsp;more...</a>"
-        },
-
-        {
-            "title" : "Projekat 2",
-            "tools" : "JAVA, MYSQL",
-            "url" : "https://github.com/necamat/webShop",
-            "text" : "The application is conceived as a kind of Web Shop, where customers are known <a href='#' class='readMore'>Read&nbsp;more...</a>"
-        },
-        
-        {
-            "title" : "Projekat 2",
-            "tools" : "JAVA, MYSQL",
-            "url" : "https://github.com/necamat/webShop",
-            "text" : "The application is conceived as a kind of Web Shop, where customers are known <a href='#' class='readMore'>Read&nbsp;more...</a>"
-        },
-        
-        {
-            "title" : "Projekat 2",
-            "tools" : "JAVA, MYSQL",
-            "url" : "https://github.com/necamat/webShop",
-            "text" : "The application is conceived as a kind of Web Shop, where customers are known <a href='#'class='readMore'>Read&nbsp;more...</a>"
-        },
-        
-        {
-            "title" : "Projekat 2",
-            "tools" : "JAVA, MYSQL",
-            "url" : "https://github.com/necamat/webShop",
-            "text" : "The application is conceived as a kind of Web Shop, where customers are known <a href='#'class='readMore'>Read&nbsp;more...</a>"
-        },
-        
-        {
-            "title" : "Projekat 2",
-            "tools" : "JAVA, MYSQL",
-            "url" : "https://github.com/necamat/webShop",
-            "text" : "The application is conceived as a kind of Web Shop, where customers are known <a href='#'class='readMore'>Read&nbsp;more...</a>"
         }
+                ]
                 ]
 }
