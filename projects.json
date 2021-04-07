@@ -5,6 +5,12 @@
             "tools" : "JAVA, MYSQL, SPRING MVC",
             "url" : "https://github.com/necamat/webShop",
             "text" : "The application is conceived as a Web Shop, in which customers are known.  <a href='#' class='readMore'>Read&nbsp;more...</a>"
+        },
+        {
+            "title" : "RESTFUL WEB SERVICE",
+            "tools" : "JAVA, XML, Xpath",
+            "url" : "https://github.com/necamat/dictionaryWebService",
+            "text" : "The basic concept of RESTful web service. The service translates between two languages.  <a href='#' class='readMore'>Read&nbsp;more...</a>"
         }
                 ]
                 
