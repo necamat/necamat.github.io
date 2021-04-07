@@ -24,7 +24,7 @@ fetch("projects.json")
         let p = createNode('p')
         let a = createNode('a')
 
-        div.classList.add('col-md-12')
+        div.classList.add('col-md-6')
         div1.classList.add('card', 'bg-light', 'projectCard')
         div2.classList.add('card-body')
         h5.classList.add('card-title')
