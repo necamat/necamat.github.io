@@ -2,7 +2,7 @@
     "projects" : [
         {
             "title" : "WEB SHOP APP",
-            "tools" : "JAVA, MYSQL, SPRING MVC",
+            "tools" : "Java, MYSQL, Spring MVC",
             "url" : "https://github.com/necamat/webShop",
             "text" : "The application is conceived as a Web Shop, in which customers are known.  <a href='#' class='readMore'>Read&nbsp;more...</a>"
         },
@@ -14,11 +14,9 @@
         },
                 {
             "title" : "E-COMMERCE APP",
-            "tools" : "JAVA, Angular, Spring",
+            "tools" : "Java, Angular, Spring",
             "url" : "https://github.com/necamat/webShopProudWolf",
-            "text" : "In preparation...
-                    
-                    <a href='#' class='readMore'>Read&nbsp;more...</a>"
+            "text" : "Full Stack application with Angular and Java Spring Boo. In preparation... <a href='#' class='readMore'>Read&nbsp;more...</a>"
         }
                 ]
                 
