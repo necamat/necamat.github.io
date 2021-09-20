@@ -11,12 +11,6 @@
             "tools" : "Java, XML, Xpath",
             "url" : "https://github.com/necamat/dictionaryWebService",
             "text" : "The basic concept of RESTful web service. The service translates between two languages.  <a href='#' class='readMore'>Read&nbsp;more...</a>"
-        },
-        {
-            "title" : "E-COMMERCE APP",
-            "tools" : "Java, Angular, Spring",
-            "url" : "https://github.com/necamat/webShopProudWolf",
-            "text" : "Full Stack application with Angular and Java Spring Boot. In preparation...  <a href='#' class='readMore'>Read&nbsp;more...</a>"
         }
                 ]
                 
